@@ -1,136 +1,201 @@
- # Hi there 👋, I'm Utpal Chandra Mondol
+# Hi there, I'm Utpal Chandra Mondol 👋
 
-### Frontend  Developer | Aspiring Software Engineer
+<p align="left">
+  <a href="https://github.com/Utpal00007">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=2563EB&width=650&lines=Frontend+Developer;Computer+Science+Student;Aspiring+Software+Engineer;Building+clean+and+scalable+web+applications" alt="Typing SVG" />
+  </a>
+</p>
 
-I am a Computer Science & Engineering undergraduate at **Independent University, Bangladesh (IUB)** with a passion for building responsive web applications and solving real-world problems through software.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Utpal00007&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
+</p>
 
-I enjoy turning ideas into user-friendly products while continuously improving my skills in modern web technologies and software engineering.
+## Frontend Developer | Computer Science Student | Aspiring Software Engineer
+
+I'm a Computer Science & Engineering student at **Independent University, Bangladesh**, passionate about building modern, user-focused web applications.
+
+I enjoy learning new technologies, solving real-world problems, and continuously improving my software engineering skills through hands-on projects and consistent practice. My long-term goal is to become a full-stack software engineer who builds impactful products and contributes to open source.
 
 ---
 
-## 🚀 About Me
+# About Me
 
-🎓 B.Sc. in Computer Science & Engineering (Minor: MIS)  
-🏫 Independent University, Bangladesh (Expected 2026)
+- 🎓 **B.Sc. in Computer Science & Engineering**
+  - Independent University, Bangladesh
+  - Minor: Management Information Systems (MIS)
+  - **Expected Graduation:** 2026
 
-🌱 Currently learning
+- 💻 Interested in modern web development and scalable software
 
-- React Ecosystem
-- Node.js & Express
-- MongoDB
+- 🌱 Focused on writing clean, maintainable, and reusable code
+
+- 🚀 Continuously improving through projects, research, and problem solving
+
+- 🤝 Open to internship opportunities and open-source collaboration
+
+---
+
+# Currently Learning
+
 - Next.js
-- System Design
+- TypeScript
 - Data Structures & Algorithms
-
-💡 Interested in
-
-- Frontend Development
-- Full Stack Development
-- Software Engineering
-- UI/UX
-- Open Source
-- Agile Development
+- System Design
+- Backend Architecture
+- Software Engineering Best Practices
 
 ---
 
-## 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css)
-![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-111827?style=for-the-badge&logo=angular)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express)
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma)
+![Pixso](https://img.shields.io/badge/Pixso-111827?style=for-the-badge)
 
 ---
 
-## 📌 Featured Projects
+# GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Utpal00007&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+</p>
+
+---
+
+# Top Languages
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utpal00007&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Utpal00007&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utpal00007&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+# Featured Projects
 
 ### 🚑 Emergency Hotline Hub
+Modern emergency service directory built with JavaScript.
 
-Responsive emergency resource platform featuring dynamic JavaScript functionality, call history, and state management.
+🔗 https://utpal00007.github.io/Emergency-Hotline/
 
-### 💳 Payoo Digital Wallet
-
-Interactive fintech dashboard built with JavaScript DOM manipulation and responsive UI.
+---
 
 ### 🌸 Premium Flower Shop
+Responsive flower shop website with clean UI and interactive features.
 
-Modern e-commerce landing page built using Tailwind CSS with responsive design.
+🔗 https://utpal00007.github.io/Premium-Flower-Shop/
+
+---
 
 ### 🍵 Tea House
+Responsive landing page showcasing a premium tea brand.
 
-Beautiful responsive business landing page using HTML, CSS, and Tailwind CSS.
+🔗 https://utpal00007.github.io/tea-house/
 
 ---
 
-## 📚 Research
+### 💳 Payoo Digital Wallet
+A digital wallet interface built with JavaScript.
 
-- Smart Urban Air Quality & Public Health
-- Risk Perception and Mitigation in Agile Project Management
-- SMARTGEN 2025 Conference Paper
+🔗 https://utpal00007.github.io/payoo-project/
+
+---
+
+# Research
+
+- SMARTGEN2025 Conference Paper
 - Micro-Inverter Based Small IPS on Single Load
+- Risk Perception and Mitigation in Agile Project Management
+- Smart Urban Air Quality and Public Health
 
 ---
 
-## 🎯 2026 Goals
+# 2026 Goals
 
-- Build high-quality Full Stack applications
-- Master React & Node.js
-- Learn System Design
-- Contribute to Open Source
-- Solve 500+ Data Structures & Algorithms problems
-- Start my Software Engineering career
-
----
-
-## 📊 GitHub Stats
-
-![Utpal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utpal00007&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Utpal00007&layout=compact&theme=transparent)
+- Earn a B.Sc. in Computer Science & Engineering
+- Become a Software Engineer
+- Master Full Stack Development
+- Deepen knowledge of System Design
+- Strengthen Data Structures & Algorithms skills
+- Build impactful software products
+- Contribute consistently to Open Source
+- Continue learning every day
 
 ---
 
-## 🌐 Connect With Me
+# Connect With Me
 
-📧 Email: utpalsinha33@gmail.com
+<p align="left">
 
-💼 LinkedIn:
-https://linkedin.com/in/utpal-chandra-mondol-633a2a240
+<a href="mailto:utpalsinha33@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail">
+</a>
 
-🌍 Portfolio:
-https://utpal00007.github.io/myProtfolio/
+<a href="https://github.com/Utpal00007">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github">
+</a>
 
-🐙 GitHub:
-https://github.com/Utpal00007
+<a href="https://linkedin.com/in/utpal-chandra-mondol-633a2a240">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://utpal00007.github.io/myProtfolio/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome">
+</a>
+
+</p>
 
 ---
 
-> *"Innovate, Ideate, and Manage — Building solutions that matter."*
+# Contribution Graph
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Utpal00007/Utpal00007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+> *"Stay curious. Build consistently. Learn continuously. Great software is created one improvement at a time."*
