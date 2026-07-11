@@ -146,8 +146,8 @@ A digital wallet interface built with JavaScript.(Mobile number: 10 digit )
 
 # Research
 
-- SMARTGEN2025 Conference Paper
-- Micro-Inverter Based Small IPS on Single Load
+
+- Micro-Inverter Based Small IPS on Single Load (SMARTGEN2025 Conference Paper)
 - Risk Perception and Mitigation in Agile Project Management
 - Smart Urban Air Quality and Public Health
 
