@@ -123,10 +123,10 @@ Modern emergency service directory built with JavaScript.
 
 ---
 
-### 🌸 Premium Flower Shop
-Responsive flower shop website with clean UI and interactive features.
+### 🌳 Green Earth Tree Shop
+Responsive Green Earth Tree hop website with clean UI and interactive features.
 
-🔗 https://utpal00007.github.io/Premium-Flower-Shop/
+🔗 https://utpal00007.github.io/Green-Earth/
 
 ---
 
