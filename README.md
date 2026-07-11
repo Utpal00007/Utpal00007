@@ -1,6 +1,6 @@
  # Hi there 👋, I'm Utpal Chandra Mondol
 
-### Junior Web Developer | Aspiring Software Engineer
+### Frontend  Developer | Aspiring Software Engineer
 
 I am a Computer Science & Engineering undergraduate at **Independent University, Bangladesh (IUB)** with a passion for building responsive web applications and solving real-world problems through software.
 
