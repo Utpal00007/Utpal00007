@@ -138,7 +138,7 @@ Responsive landing page showcasing a premium tea brand.
 ---
 
 ### 💳 Payoo Digital Wallet
-A digital wallet interface built with JavaScript.
+A digital wallet interface built with JavaScript.(Mobile number: 10 digit )
 
 🔗 https://utpal00007.github.io/payoo-project/
 
