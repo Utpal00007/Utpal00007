@@ -133,7 +133,7 @@ Responsive flower shop website with clean UI and interactive features.
 ### 🍵 Tea House
 Responsive landing page showcasing a premium tea brand.
 
-🔗 https://utpal00007.github.io/tea-house/
+🔗 https://utpal00007.github.io/TEA-HOUSE-/
 
 ---
 
