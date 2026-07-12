@@ -197,10 +197,10 @@ A digital wallet interface built with JavaScript.(Mobile number: 10 digit )
 
 ---
 
-# Contribution Graph
+## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Utpal00007/Utpal00007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Utpal00007/Utpal00007/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
