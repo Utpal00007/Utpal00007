@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Utpal00007&label=Profile%20Views&color=2563eb&style=flat" alt="Profile Views" />
 </p>
 
-## Frontend Developer | Computer Science Student | Aspiring Software Engineer
+## Frontend Developer |  Computer Science & Engineering student | Aspiring Software Engineer
 
 I'm a Computer Science & Engineering student at **Independent University, Bangladesh**, passionate about building modern, user-focused web applications.
 
@@ -85,15 +85,14 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 # GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Utpal00007&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Utpal00007&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
-
 ---
 
 # Top Languages
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utpal00007&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utpal00007&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 ---
