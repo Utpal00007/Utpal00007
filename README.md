@@ -124,9 +124,16 @@ Modern emergency service directory built with JavaScript.
 ---
 
 ### 🌳 Green Earth Tree Shop
-Responsive Green Earth Tree hop website with clean UI and interactive features.
+Responsive Green Earth Tree shop website with clean UI and interactive features.
 
 🔗 https://utpal00007.github.io/Green-Earth/
+
+---
+
+### BBC Bangla News
+Responsiv BBC Bangla News website with clean UI and interactive features.
+
+🔗 https://utpal00007.github.io/bbc-bangla/
 
 ---
 
