@@ -130,7 +130,7 @@ Responsive Green Earth Tree shop website with clean UI and interactive features.
 
 ---
 
-### BBC Bangla News
+### 📰 BBC Bangla News
 Responsiv BBC Bangla News website with clean UI and interactive features.
 
 🔗 https://utpal00007.github.io/bbc-bangla/
